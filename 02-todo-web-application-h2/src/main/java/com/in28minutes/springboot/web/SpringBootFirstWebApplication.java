@@ -18,5 +18,7 @@ public class SpringBootFirstWebApplication extends SpringBootServletInitializer 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootFirstWebApplication.class, args);
 	}
+	
+	//my 
 
 }
