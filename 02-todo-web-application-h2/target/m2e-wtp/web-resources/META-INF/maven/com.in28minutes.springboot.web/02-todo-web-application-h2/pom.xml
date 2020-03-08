@@ -100,7 +100,8 @@
 	<build>
 		<finalName>todo-web-application-h2</finalName>
 		<plugins>
-			<plugin>
+		
+		<!--  <plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
@@ -122,7 +123,8 @@
 					<tag>${project.version}</tag>
 					<skipDockerInfo>true</skipDockerInfo>
 				</configuration>
-			</plugin>
+			</plugin>-->
+			
 		</plugins>
 	</build>
 
